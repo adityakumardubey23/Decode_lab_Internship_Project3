@@ -1,0 +1,13 @@
+From: "IT Support" <helpdesk@account-security.example.test>
+Subject: URGENT: Account verification required
+
+Hello,
+
+Your account will be suspended within 24 hours. Verify your password immediately
+using this link: http://198.51.100.24/verify
+
+This request is strictly confidential. Do not discuss it with anyone.
+Open the attached HTML document if the page does not load.
+
+Regards,
+IT Support

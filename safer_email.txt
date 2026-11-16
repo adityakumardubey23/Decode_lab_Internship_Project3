@@ -1,0 +1,11 @@
+From: library@example.edu
+Subject: Library opening hours for next week
+
+Hello,
+
+The library will open from 9:00 AM to 5:00 PM next week.
+Please visit the student portal by typing its usual address into your browser
+if you need further information.
+
+Regards,
+Library Office

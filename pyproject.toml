@@ -1,0 +1,6 @@
+[project]
+name = "phishing-triage-toolkit"
+version = "1.0.0"
+description = "Educational phishing awareness and triage analysis toolkit"
+requires-python = ">=3.10"
+dependencies = []
